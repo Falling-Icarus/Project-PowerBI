@@ -1,6 +1,6 @@
 # Project-PowerBI
 
-Projeto de estudo tanto para as ferramentas do PowerBI, Power Query, linguagem DAX e Modelagem de dados sendo todos os dados completamente inventados com o propósito do treinamento e da aprendizagem resultando assim em uma dashboard final interativa.
+Projeto de estudo com o objetivo de treinar o conhecimento adquirido referente as ferramentas do PowerBI, Power Query, linguagem DAX e Modelagem de dados sendo todos os dados completamente inventados e irreais respeitando assim a LGPD resultando assim em uma dashboard final interativa.
 
 ![Primeira_aba](https://github.com/user-attachments/assets/f7d126b6-1547-436b-b2df-1fe3f8bc1524)
 
